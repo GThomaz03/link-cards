@@ -92,8 +92,8 @@ export const profiles: ProfilesMap = {
     accentColor: '#F34E4D',
     contact: {
       label: 'E-mail comercial',
-      value: 'paulo.anafe@franchetti.tech',
-      url: 'mailto:paulo.anafe@franchetti.tech',
+      value: 'sergio.pereira@franchetti.tech',
+      url: 'mailto:sergio.pereira@franchetti.tech',
     },
     links: [
       {
