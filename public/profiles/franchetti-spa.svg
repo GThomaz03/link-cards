@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Avatar Franchetti SPA">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fbcfe8"/>
+      <stop offset="1" stop-color="#db2777"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="100" fill="url(#f)"/>
+  <text x="100" y="112" text-anchor="middle" fill="#831843" font-family="system-ui,Segoe UI,sans-serif" font-size="44" font-weight="700">FS</text>
+</svg>

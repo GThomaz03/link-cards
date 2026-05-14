@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Avatar Gabriel Alves">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="100" fill="url(#g)"/>
+  <text x="100" y="118" text-anchor="middle" fill="#fff" font-family="system-ui,Segoe UI,sans-serif" font-size="56" font-weight="700">GA</text>
+</svg>
