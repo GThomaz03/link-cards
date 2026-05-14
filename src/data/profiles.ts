@@ -84,11 +84,37 @@ export const profiles: ProfilesMap = {
   },
   'franchetti-spa-sergio': {
     name: 'Sergio de Paula Pereira',
-    title: 'Coordenadora de engenharia',
+    title: 'Gerente de engenharia',
     bio: '',
     logo: '/profiles/Logo-fran.png',
     background:
-      'linear-gradient(160deg, #2A3C45 0%, #56636A 35%, #B85A58 65%, #F34E4D 100%)',
+    'linear-gradient(160deg, #2A3C45 0%, #56636A 35%, #B85A58 65%, #F34E4D 100%)',
+    accentColor: '#F34E4D',
+    contact: {
+      label: 'E-mail comercial',
+      value: 'paulo.anafe@franchetti.tech',
+      url: 'mailto:paulo.anafe@franchetti.tech',
+    },
+    links: [
+      {
+        label: 'WhatsApp',
+        url: 'https://wa.me/5521976605906',
+        icon: 'whatsapp',
+      },
+      {
+        label: 'Site',
+        url: 'https://www.franchetti.tech/pt-br',
+        icon: 'website',
+      },
+    ],
+  },
+  'franchetti-spa-paulo': {
+    name: 'Paulo Anafe',
+    title: 'Gerente comercial',
+    bio: '',
+    logo: '/profiles/Logo-fran.png',
+    background:
+    'linear-gradient(160deg, #2A3C45 0%, #56636A 35%, #B85A58 65%, #F34E4D 100%)',
     accentColor: '#F34E4D',
     contact: {
       label: 'E-mail comercial',
@@ -98,8 +124,13 @@ export const profiles: ProfilesMap = {
     links: [
       {
         label: 'WhatsApp',
-        url: 'https://wa.me/5521976605906',
+        url: 'https://wa.me/5521996356376',
         icon: 'whatsapp',
+      },
+      {
+        label: 'LinkedIn',
+        url: 'https://www.linkedin.com/in/paulo-anafe-1422a136/',
+        icon: 'linkedin',
       },
       {
         label: 'Site',
