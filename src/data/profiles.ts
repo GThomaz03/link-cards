@@ -118,8 +118,8 @@ export const profiles: ProfilesMap = {
     accentColor: '#F34E4D',
     contact: {
       label: 'E-mail comercial',
-      value: 'Sergio.pereira@franchetti.tech',
-      url: 'mailto:Sergio.pereira@franchetti.tech',
+      value: 'paulo.anafe@franchetti.tech',
+      url: 'mailto:paulo.anafe@franchetti.tech',
     },
     links: [
       {
@@ -188,7 +188,7 @@ export const profiles: ProfilesMap = {
     },
     links: [
         {
-          label: 'Agendar horário',
+          label: 'WhatsApp',
         url: 'https://wa.me/5511946422608',
         icon: 'whatsapp',
       },
