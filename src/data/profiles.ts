@@ -51,7 +51,7 @@ export type ProfilesMap = Record<string, Profile>
  */
 export const profiles: ProfilesMap = {
 
-  'franchetti-spa': {
+  'franchetti-spa-nath': {
     name: 'Nath Oliveira',
     title: 'Coordenadora de engenharia',
     bio: '',
@@ -66,7 +66,7 @@ export const profiles: ProfilesMap = {
     },
     links: [
       {
-        label: 'Agendar horário',
+        label: 'WhatsApp',
         url: 'https://wa.me/5511993878441',
         icon: 'whatsapp',
       },
@@ -74,6 +74,32 @@ export const profiles: ProfilesMap = {
         label: 'LinkedIn',
         url: 'https://www.linkedin.com/in/nathaliathomaz/',
         icon: 'linkedin',
+      },
+      {
+        label: 'Site',
+        url: 'https://www.franchetti.tech/pt-br',
+        icon: 'website',
+      },
+    ],
+  },
+  'franchetti-spa-sergio': {
+    name: 'Sergio de Paula Pereira',
+    title: 'Coordenadora de engenharia',
+    bio: '',
+    logo: '/profiles/Logo-fran.png',
+    background:
+      'linear-gradient(160deg, #2A3C45 0%, #56636A 35%, #B85A58 65%, #F34E4D 100%)',
+    accentColor: '#F34E4D',
+    contact: {
+      label: 'E-mail comercial',
+      value: 'Sergio.pereira@franchetti.tech',
+      url: 'mailto:Sergio.pereira@franchetti.tech',
+    },
+    links: [
+      {
+        label: 'WhatsApp',
+        url: 'https://wa.me/5521976605906',
+        icon: 'whatsapp',
       },
       {
         label: 'Site',
